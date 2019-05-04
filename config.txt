@@ -1,6 +1,6 @@
 owner=306464381775118336
-prefix=quran
-game=Break | quran
+prefix=1quran
+game=Break | 1quran
 stayinchannel=true
 songinstatus=true
 token=NTc0Mjg4OTc3NTM3MDA3NjE3.XM3QXQ.T3Yk89_7cWyMwRpqck3NTzbgz-8
