@@ -1,4 +1,4 @@
-owner=533016162871672863
+owner=306464381775118336
 prefix=quran
 game=Break | quran
 stayinchannel=true
